@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+fatbody_article:
+  title: you are a disgusting fatbody 
+  subtitle: sometimes you need a push to get going
+  content: It was Sunday evening, and I was feeling quite jolly after drinking somewhere in the region of 7 pints (English, 20oz., not the comparatively lightweight American 16oz.). I had spent the day watching watching my beloved Liverpool FC convincingly beat Aston Villa at Anfield, and chatting with my friend Brian about the Plantaginate monarchs, and how we are still under the thumb of the nobles in dear old Blighty.
+
